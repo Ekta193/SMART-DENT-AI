@@ -1,1 +1,8 @@
 # SMART-DENT-AI
+
+SmartDent-AI is an advanced AI-powered dental diagnostic and treatment platform aimed at enhancing dental care delivery through accurate diagnostics, personalized treatment planning, and improved patient engagement. By utilizing deep learning models such as MobileNetV2 for disease detection, U-Net for image segmentation, and Pix2Pix for orthodontic treatment simulations, the platform offers comprehensive dental solutions. It accurately detects dental conditions like caries, gingivitis, and misalignment through analysis of dental X-rays and intraoral images. The orthodontic treatment feature uses a Pix2Pix model, consisting of a UNet Generator for aligning misaligned teeth and a PatchGAN Discriminator to ensure realistic image generation. The system preprocesses input images to generate visual representations of aligned teeth, aiding in treatment planning and communication between dentists and patients. SmartDent-AI integrates telemedicine tools for real-time remote consultations, allowing patients to upload images and receive AI driven diagnostics and personalized treatment recommendations. It also facilitates easy appointment scheduling with specialists. Through its user-friendly interface and real-time processing capabilities, SmartDent AI provides an innovative and comprehensive solution to revolutionize dental care.
+
+
+•	Received official copyright registration for this project from the Government of India. 
+•	Presented a research paper titled "SmartDent AI: AI-Driven Diagnosis and Treatment Solutions" at the 2025 Global Conference on Emerging Technology (GINOTECH), IEEE Pune Section, held from 9th–11th May 2025.
+
